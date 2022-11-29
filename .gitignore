@@ -2,4 +2,7 @@
 data/
 bin/
 results/
+src/wandb/
+src/results/
+src/logs/
 git_init.sh
